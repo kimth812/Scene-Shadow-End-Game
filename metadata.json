@@ -1,0 +1,7 @@
+{
+  "name": "Scene Shadow: End Game",
+  "description": "Movie-clip English shadowing app practicing conversational speech from Avengers: Endgame with Ancient One and Hulk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
